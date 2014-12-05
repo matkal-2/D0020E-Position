@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("bla Bla bla");
+  int a = 12312312;
 
 
   return 0;
